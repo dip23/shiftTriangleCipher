@@ -5,15 +5,16 @@
 ### Difa Bagasputra Maulana - 140810180057
 
 
+
 ### Shiftchiper
 
 Enkripsi
 
 
-![encrypt](Screenshot/Enkrip-Shift.jpg)
+![encrypt](https://cdn.discordapp.com/attachments/692577201476075582/785118296293900298/Enkrip-Shift.JPG)
 
 Dekripsi
 
 
-![decrypt](Screenshot/Dekrip-Shift.jpg)
+![decrypt](https://cdn.discordapp.com/attachments/692577201476075582/785118298987036672/Dekrip-Shift.JPG)
 
